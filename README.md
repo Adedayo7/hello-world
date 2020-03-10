@@ -1,2 +1,6 @@
 # hello-world
 A new repository
+hello, evryone
+
+My name is ganiu and am really exicted to be here, though am new on javascript i just want i have fun while learning it ....
+Am a foodie i dont think is important but i just felt like mentioning in it yay.....
